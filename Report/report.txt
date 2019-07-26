@@ -1,2 +1,12 @@
 Jump Ninja
+Feature:
+2D animations
+2D Physics Collider
+2D Rigidbody component
+Physics controlling with animation
+Move sprites with mouse
+UI Menu & sound
+Random spawn object
+advanced feature:
+Web GL
 reference :https://forum.unity.com/threads/free-ios-android-jump-hero-hardcore-jumper.547219/
